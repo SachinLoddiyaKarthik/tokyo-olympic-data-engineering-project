@@ -1,4 +1,4 @@
-# 🏅 Tokyo Olympic Data Analytics Project
+# 🏅 Tokyo Olympic Data Engineering Project
 
 ## 📌 Project Overview
 
